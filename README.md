@@ -1,2 +1,2 @@
-# hello-world
+# HelloWorld
 Initial project
