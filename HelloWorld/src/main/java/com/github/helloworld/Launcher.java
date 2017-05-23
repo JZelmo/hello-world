@@ -659,9 +659,9 @@ public final class Launcher {
      */
     public static void main(final String[] args) {
 
-        System.out.println("Hello world!");
-        
         // Simple affichage dans la console.
+        System.out.println("Hello world!");
+
     }
 
 }
