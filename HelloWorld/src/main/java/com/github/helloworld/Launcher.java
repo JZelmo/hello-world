@@ -653,13 +653,15 @@ public final class Launcher {
     }
 
     /**
-     * Point d'entrée du programme
+     * Point d'entrée du programme.
      *
      * @param args Argument système
      */
     public static void main(final String[] args) {
 
         System.out.println("Hello world!");
+        
+        // Simple affichage dans la console.
     }
 
 }
