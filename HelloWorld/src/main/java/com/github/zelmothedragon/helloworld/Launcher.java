@@ -640,8 +640,8 @@ package com.github.zelmothedragon.helloworld;
 /**
  * Lanceur de l'application.
  *
+ * @since 0.0.2
  * @author MOSELLE Maxime
- * @since 0.0.1
  */
 public final class Launcher {
 
